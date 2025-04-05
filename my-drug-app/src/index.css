@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.active{
+
+@apply text-red-400 font-bold
+
+}
+
+
+body{
+   
+}
