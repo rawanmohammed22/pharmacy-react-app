@@ -6,10 +6,23 @@ A frontend React application acting as the customer/client interface for a pharm
 - **User Authentication:** Login screen for user access.
 - - **Product Listing:** View standard pharmacy products and medications.
   - - **Component-Based Architecture:** Uses Context API for state management across components.
-   
+     
     - ## Tech Stack
     - - **Framework:** React.js
       - - **Build Tool:** Vite
+       
+        - ## How to Run Locally
+       
+        - 1. Clone the repository
+          2. 2. Install dependencies:
+             3.    ```bash
+                      npm install
+                      ```
+                   3. Run the development server:
+                   4.    ```bash
+                            npm run dev
+                            ```
+                         
         - - **Language:** JavaScript (ES6+)
          
           - ## Current Status & Known Limitations
